@@ -5,6 +5,8 @@ using System.Text;
 using System.Threading.Tasks;
 using HalconDotNet;
 
+//test added by wang
+
 namespace Standard_UI.UI
 {
     public class ExistParams

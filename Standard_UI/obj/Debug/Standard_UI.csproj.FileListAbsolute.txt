@@ -14,3 +14,6 @@ D:\VS2017\C#\通用标准程序\Standard_UI\Standard_UI\obj\Debug\Standard_UI.UI
 D:\VS2017\C#\通用标准程序\Standard_UI\Standard_UI\obj\Debug\Standard_UI.UI.CameraSet.resources
 D:\VS2017\C#\通用标准程序\Standard_UI\Standard_UI\obj\Debug\Standard_UI.UI.UserLogin.resources
 D:\VS2017\C#\通用标准程序\Standard_UI\Standard_UI\obj\Debug\Standard_UI.csprojResolveAssemblyReference.cache
+E:\GitHub\Standard_UI\Standard_UI\bin\Debug\Standard_UI.exe.config
+E:\GitHub\Standard_UI\Standard_UI\obj\Debug\Standard_UI.exe
+E:\GitHub\Standard_UI\Standard_UI\obj\Debug\Standard_UI.pdb
