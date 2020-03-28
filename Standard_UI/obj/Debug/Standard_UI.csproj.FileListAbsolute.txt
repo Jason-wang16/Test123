@@ -1,0 +1,16 @@
+D:\VS2017\C#\通用标准程序\Standard_UI\Standard_UI\obj\Debug\Standard_UI.Properties.Resources.resources
+D:\VS2017\C#\通用标准程序\Standard_UI\Standard_UI\obj\Debug\Standard_UI.csproj.GenerateResource.Cache
+D:\VS2017\C#\通用标准程序\Standard_UI\Standard_UI\bin\Debug\Standard_UI.exe.config
+D:\VS2017\C#\通用标准程序\Standard_UI\Standard_UI\bin\Debug\Standard_UI.exe
+D:\VS2017\C#\通用标准程序\Standard_UI\Standard_UI\bin\Debug\Standard_UI.pdb
+D:\VS2017\C#\通用标准程序\Standard_UI\Standard_UI\bin\Debug\Basler.Pylon.dll
+D:\VS2017\C#\通用标准程序\Standard_UI\Standard_UI\bin\Debug\halcondotnet.dll
+D:\VS2017\C#\通用标准程序\Standard_UI\Standard_UI\bin\Debug\Basler.Pylon.xml
+D:\VS2017\C#\通用标准程序\Standard_UI\Standard_UI\bin\Debug\halcondotnet.xml
+D:\VS2017\C#\通用标准程序\Standard_UI\Standard_UI\obj\Debug\Standard_UI.exe
+D:\VS2017\C#\通用标准程序\Standard_UI\Standard_UI\obj\Debug\Standard_UI.pdb
+D:\VS2017\C#\通用标准程序\Standard_UI\Standard_UI\obj\Debug\Standard_UI.FormMain.resources
+D:\VS2017\C#\通用标准程序\Standard_UI\Standard_UI\obj\Debug\Standard_UI.UI.TemplateMatch.resources
+D:\VS2017\C#\通用标准程序\Standard_UI\Standard_UI\obj\Debug\Standard_UI.UI.CameraSet.resources
+D:\VS2017\C#\通用标准程序\Standard_UI\Standard_UI\obj\Debug\Standard_UI.UI.UserLogin.resources
+D:\VS2017\C#\通用标准程序\Standard_UI\Standard_UI\obj\Debug\Standard_UI.csprojResolveAssemblyReference.cache
